@@ -3,7 +3,7 @@ Supplementary Visual Analytics Resource for Manuscript for Peer Review
 Ecological Trait-Based Digital Categorization of Microbial Genomes for Denitrification Potential: Contributing Data-Driven Actions to One Health Theory of Change 
 
 Raphael D. Isokpehi 1, †*, Yungkul Kim 1,*, Sarah E. Krejci 1, and Vishwa D. Trivedi 1  
-1    Oyster Microbiome Project, Bethune-Cookman University
+1    Oyster Microbiome Project, Bethune-Cookman University, Daytona Beach, Florida, USA 32114
 †    Current Affiliation: Office of Data Science Strategy, National Institutes of Health, Bethesda, MD 20892, USA 
 *   Correspondence: raphael.isokpehi@outlook.com (R.D.I); kimy@cookman.edu (Y.K.) 
 
